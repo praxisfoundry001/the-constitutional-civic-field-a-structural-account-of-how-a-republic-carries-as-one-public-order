@@ -30,6 +30,6 @@ By deriving the civic field under the existing Structural Flow hinge grammar and
 - Pre-Metric Evaluative Object
 
 ## Citation / DOI
-Zenodo DOI: 
+Zenodo DOI: https://doi.org/10.5281/zenodo.19717885
 
 Full printable PDF available via DOI link after publication.
